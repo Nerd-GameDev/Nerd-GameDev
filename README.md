@@ -35,10 +35,3 @@ Java**).
 `Blender` • `DaVinci Resolve` • `Figma` • `Canva` • `Pixso`
 
 ---
-
-### GitHub Статистика:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nerd-GameDev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerd-GameDev&theme=tokyonight" alt="Top Languages" />
-</p>

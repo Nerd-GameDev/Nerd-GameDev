@@ -1,16 +1,38 @@
-## Hi there 👋
+# Привет! Я Fullstack-разработчик & GameDev Энтузиаст
 
-<!--
-**Nerd-GameDev/Nerd-GameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я разработчик, совмещающий работу с **UX/UI дизайном, 3D-моделированием, видеомонтажом, а также мобильной и серверной разработкой**. Люблю экспериментировать с разными визуальными стилями и пробовать себя в новых технологиях.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Чем я занимаюсь:
+
+**GameDev:** Разработка игр и мобильных проектов на **Unity**.
+**Mobile Dev:** Создание приложений под Android (**Android Studio**) и iOS (**Swift**).
+**3D & Design:** Моделирование в **Blender**, проектирование интерфейсов и UX/UI дизайн.
+**Video Production:** Монтаж и обработка видео в **DaVinci Resolve**.
+**Backend & Logic:** Написание серверной логики и работа с архитектурой (**Python, C#, C++, Java**).
+**Базы данных:** Активно учусь проектировать и работать с БД.
+**AI:** Поверхностное узучение озов об искусственным интеллектом.
+
+---
+
+### Технологический стек:
+
+**Языки программирования:**
+`Python` • `C#` • `C++` • `Kotlin` • `Java` • `Swift` • `HTML / CSS / JavaScript`
+
+**Движки и мобильная разработка:**
+`Unity` • `Unreal Engine` • `Android Studio` • `Xcode / Swift`
+ 
+**Дизайн, 3D & Видео:**
+`Blender` • `DaVinci Resolve` • `Figma` • `Canva` • `Pixso`
+
+---
+
+### GitHub Статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nerd-GameDev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
